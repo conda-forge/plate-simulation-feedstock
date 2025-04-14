@@ -10,7 +10,6 @@ Package license: MIT
 Summary: Specialized mesh, model and simulation for a parameterization of
 the halfspace + overburden and plate geological setting
 
-
 Development: https://github.com/MiraGeoscience/plate-simulation
 
 Current build status
