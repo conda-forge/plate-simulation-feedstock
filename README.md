@@ -12,6 +12,8 @@ the halfspace + overburden and plate geological setting
 
 Development: https://github.com/MiraGeoscience/plate-simulation
 
+Documentation: https://mirageoscience-plate-simulation.readthedocs-hosted.com/
+
 Current build status
 ====================
 
@@ -146,5 +148,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@sebhmg](https://github.com/sebhmg/)
+* [@conda-forge/geoh5py](https://github.com/orgs/conda-forge/teams/geoh5py/)
 
