@@ -11,7 +11,7 @@ package:
 
 source:
   url: https://github.com/MiraGeoscience/${{ name }}/archive/v${{ version }}.tar.gz
-  sha256: ceb6c139b7c2d855822ab33348e93d0af0f7ef4bfce163145ffda130950c9aba
+  sha256: 66c22ded2c7a7bb8afd5dc3799dbe5128b88d74cd7b7874a51ed325561436b40
 
 build:
   number: 1
