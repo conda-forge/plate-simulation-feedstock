@@ -46,6 +46,14 @@ tests:
       imports:
         - plate_simulation
       pip_check: true
+  - script:
+        - pytest --ignore=tests/version_test.py
+    requirements:
+      run:
+        - pytest
+    files:
+      source:
+        - tests/
 
 about:
   summary: |
