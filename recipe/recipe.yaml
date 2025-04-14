@@ -55,6 +55,7 @@ about:
   license_file: LICENSE
   homepage: https://www.mirageoscience.com/mining-industry-software/geoscience-analyst/python-integration/
   repository: https://github.com/MiraGeoscience/plate-simulation
+  documentation: https://mirageoscience-plate-simulation.readthedocs-hosted.com/
 
 extra:
   recipe-maintainers:
