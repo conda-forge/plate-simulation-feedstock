@@ -20,7 +20,7 @@ build:
 
 requirements:
   host:
-    - python 3.10.*
+    - python ${{ python_min }}.*
     - poetry-core >=1.0.0
     - setuptools
     - pip
@@ -42,11 +42,11 @@ requirements:
 
 tests:
   - python:
+      python_version: ${{ python_min }}.*
       imports:
         - plate_simulation
       pip_check: true
 
-      python_version: ${{ python_min }}.*
 about:
   summary: |
     Specialized mesh, model and simulation for a parameterization of
